@@ -11,3 +11,5 @@
 
 /.idea
 proguard-rules.pro
+gradlew
+gradlew.bat
